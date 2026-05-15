@@ -659,7 +659,7 @@ Widget Slot</note></trans-unit>
 <target>残月</target>
 <note>Widget Default Messages</note></trans-unit>
       <trans-unit approved="yes" id="Waning Gibbous" xml:space="preserve"><source>Waning Gibbous</source>
-<target>凸月</target>
+<target>亏凸月</target>
 <note>Widget Default Messages</note></trans-unit>
       <trans-unit approved="yes" id="Watchy" xml:space="preserve"><source>Watchy</source>
 <target>Watchy</target>
@@ -668,10 +668,10 @@ Widget Slot</note></trans-unit>
 <target>水样</target>
 <note>HealthKit Data</note></trans-unit>
       <trans-unit approved="yes" id="Waxing Crescent" xml:space="preserve"><source>Waxing Crescent</source>
-<target>娥眉月</target>
+<target>盈眉月</target>
 <note>Widget Default Messages</note></trans-unit>
       <trans-unit approved="yes" id="Waxing Gibbous" xml:space="preserve"><source>Waxing Gibbous</source>
-<target>上凸月</target>
+<target>盈凸月</target>
 <note>Widget Default Messages</note></trans-unit>
       <trans-unit approved="yes" id="Weather" xml:space="preserve"><source>Weather</source>
 <target>天气</target>
@@ -1352,7 +1352,7 @@ Widget Slot</note></trans-unit>
 <target>残月</target>
 <note>Widget Default Messages</note></trans-unit>
       <trans-unit approved="yes" id="Waning Gibbous" xml:space="preserve"><source>Waning Gibbous</source>
-<target>凸月</target>
+<target>亏凸月</target>
 <note>Widget Default Messages</note></trans-unit>
       <trans-unit approved="yes" id="Watchy" xml:space="preserve"><source>Watchy</source>
 <target>Watchy</target>
@@ -1361,10 +1361,10 @@ Widget Slot</note></trans-unit>
 <target>水样</target>
 <note>HealthKit Data</note></trans-unit>
       <trans-unit approved="yes" id="Waxing Crescent" xml:space="preserve"><source>Waxing Crescent</source>
-<target>娥眉月</target>
+<target>盈眉月</target>
 <note>Widget Default Messages</note></trans-unit>
       <trans-unit approved="yes" id="Waxing Gibbous" xml:space="preserve"><source>Waxing Gibbous</source>
-<target>上凸月</target>
+<target>盈凸月</target>
 <note>Widget Default Messages</note></trans-unit>
       <trans-unit approved="yes" id="Weather" xml:space="preserve"><source>Weather</source>
 <target>天气</target>
@@ -2041,7 +2041,7 @@ Widget Slot</note></trans-unit>
 <target>残月</target>
 <note>Widget Default Messages</note></trans-unit>
       <trans-unit approved="yes" id="Waning Gibbous" xml:space="preserve"><source>Waning Gibbous</source>
-<target>凸月</target>
+<target>亏凸月</target>
 <note>Widget Default Messages</note></trans-unit>
       <trans-unit approved="yes" id="Watchy" xml:space="preserve"><source>Watchy</source>
 <target>Watchy</target>
@@ -2050,10 +2050,10 @@ Widget Slot</note></trans-unit>
 <target>水样</target>
 <note>HealthKit Data</note></trans-unit>
       <trans-unit approved="yes" id="Waxing Crescent" xml:space="preserve"><source>Waxing Crescent</source>
-<target>娥眉月</target>
+<target>盈眉月</target>
 <note>Widget Default Messages</note></trans-unit>
       <trans-unit approved="yes" id="Waxing Gibbous" xml:space="preserve"><source>Waxing Gibbous</source>
-<target>上凸月</target>
+<target>盈凸月</target>
 <note>Widget Default Messages</note></trans-unit>
       <trans-unit approved="yes" id="Weather" xml:space="preserve"><source>Weather</source>
 <target>天气</target>
@@ -3882,7 +3882,7 @@ Data Sources</note></trans-unit>
 <target>数据获取时间</target>
 <note>Warnings Drawer</note></trans-unit>
       <trans-unit approved="yes" id="Data not available for this widget/device combination." xml:space="preserve"><source>Data not available for this widget/device combination.</source>
-<target>此小组件/设备组合的数据不可用。</target>
+<target>此小组件/设备组合不支持该数据。</target>
 <note>Incompatible data source</note></trans-unit>
       <trans-unit approved="yes" id="Data source not available on" xml:space="preserve"><source>Data source not available on</source>
 <target>数据源不可用于</target>
@@ -4766,7 +4766,7 @@ Widget Size</note></trans-unit>
 <target>文字间距</target>
 <note>Curved Text Drawer</note></trans-unit>
       <trans-unit approved="yes" id="Font not available for this widget/device combination." xml:space="preserve"><source>Font not available for this widget/device combination.</source>
-<target>此小组件/设备组合的文字不可用。</target>
+<target>此小组件/设备组合不支持该字体。</target>
 <note>Incompatible data source</note></trans-unit>
       <trans-unit approved="yes" id="Fonts" xml:space="preserve"><source>Fonts</source>
 <target>字体</target>
@@ -6451,7 +6451,7 @@ Widget Size Name</note></trans-unit>
 <target>月相 亏凸月</target>
 <note>Customize Drawer</note></trans-unit>
       <trans-unit approved="yes" id="Moon Phase Waxing Crescent" xml:space="preserve"><source>Moon Phase Waxing Crescent</source>
-<target>月相 娥眉月</target>
+<target>月相 盈眉月</target>
 <note>Customize Drawer</note></trans-unit>
       <trans-unit approved="yes" id="Moon Phase Waxing Gibbous" xml:space="preserve"><source>Moon Phase Waxing Gibbous</source>
 <target>月相 盈凸月</target>
@@ -6472,7 +6472,7 @@ Widget Size Name</note></trans-unit>
 <target>月亮 亏凸月</target>
 <note>Messages Drawer</note></trans-unit>
       <trans-unit approved="yes" id="Moon Waxing Crescent" xml:space="preserve"><source>Moon Waxing Crescent</source>
-<target>月亮 娥眉月</target>
+<target>月亮 盈眉月</target>
 <note>Messages Drawer</note></trans-unit>
       <trans-unit approved="yes" id="Moon Waxing Gibbous" xml:space="preserve"><source>Moon Waxing Gibbous</source>
 <target>月亮 盈凸月</target>
@@ -7811,7 +7811,7 @@ Gauge Drawer</note></trans-unit>
 <target>分享小组件</target>
 <note>Widget Preview Button</note></trans-unit>
       <trans-unit approved="yes" id="Sharing Of Widget Protected With Password" xml:space="preserve"><source>Sharing Of Widget Protected With Password</source>
-<target>密码保护小组件分享</target>
+<target>使用密码保护小组件分享</target>
 <note>Document Drawer</note></trans-unit>
       <trans-unit approved="yes" id="Shift Time" xml:space="preserve"><source>Shift Time</source>
 <target>偏移时间</target>
@@ -8140,7 +8140,7 @@ Warnings Drawer</note></trans-unit>
 <note>Chart Drawer
 Gauge Drawer</note></trans-unit>
       <trans-unit approved="yes" id="Sum" xml:space="preserve"><source>Sum</source>
-<target>相加</target>
+<target>求和</target>
 <note>Button Title</note></trans-unit>
       <trans-unit approved="yes" id="Sun And Moon" xml:space="preserve"><source>Sun And Moon</source>
 <target>太阳和月亮</target>
@@ -9128,7 +9128,7 @@ Group Aligment Drawer</note></trans-unit>
 <target>残月</target>
 <note>Widget Default Messages</note></trans-unit>
       <trans-unit approved="yes" id="Waning Gibbous" xml:space="preserve"><source>Waning Gibbous</source>
-<target>凸月</target>
+<target>亏凸月</target>
 <note>Widget Default Messages</note></trans-unit>
       <trans-unit approved="yes" id="Warning" xml:space="preserve"><source>Warning</source>
 <target>警告</target>
@@ -9188,10 +9188,10 @@ Widget Slot Name</note></trans-unit>
 <target>水样</target>
 <note>HealthKit Data</note></trans-unit>
       <trans-unit approved="yes" id="Waxing Crescent" xml:space="preserve"><source>Waxing Crescent</source>
-<target>娥眉月</target>
+<target>盈眉月</target>
 <note>Widget Default Messages</note></trans-unit>
       <trans-unit approved="yes" id="Waxing Gibbous" xml:space="preserve"><source>Waxing Gibbous</source>
-<target>上凸月</target>
+<target>盈凸月</target>
 <note>Widget Default Messages</note></trans-unit>
       <trans-unit approved="yes" id="We've opened the translation process up to the community because you know best how Widgy should be translated into your language. Please follow the instructions written on the translation page." xml:space="preserve"><source>We've opened the translation process up to the community because you know best how Widgy should be translated into your language. Please follow the instructions written on the translation page.</source>
 <target>我们向社区开放了翻译流程，因为您最清楚如何将 Widgy 翻译成您的语言。请遵循翻译页面上的说明进行操作。</target>
