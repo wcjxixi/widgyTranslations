@@ -5262,16 +5262,16 @@ Layer Properties</note></trans-unit>
 <target>如何隐藏我的小组件下方的「Widgy」标签？</target>
 <note>Widgy Help Title</note></trans-unit>
       <trans-unit approved="yes" id="How do I hide the name under my widget?" xml:space="preserve"><source>How do I hide the name under my widget?</source>
-<target>如何隐藏小组件的名称？</target>
+<target>如何隐藏我的小组件下方的名称？</target>
 <note>Help Title</note></trans-unit>
       <trans-unit approved="yes" id="How do I make my widget transparent?" xml:space="preserve"><source>How do I make my widget transparent?</source>
-<target>如何使小组件透明？</target>
+<target>如何使我的小组件透明？</target>
 <note>Help Title</note></trans-unit>
       <trans-unit approved="yes" id="How do I manually choose a font size?" xml:space="preserve"><source>How do I manually choose a font size?</source>
 <target>如何手动选择文字大小？</target>
 <note>Help Title</note></trans-unit>
       <trans-unit approved="yes" id="How do I show Now Playing from Spotify?" xml:space="preserve"><source>How do I show Now Playing from Spotify?</source>
-<target>如何显示来自 Spotify 的正在播放？</target>
+<target>如何显示来自 Spotify 的「正在播放」？</target>
 <note>Help Title</note></trans-unit>
       <trans-unit approved="yes" id="How do I show and hide elements dynamically based on system statuses?" xml:space="preserve"><source>How do I show and hide elements dynamically based on system statuses?</source>
 <target>如何根据系统状态动态显示和隐藏元素？</target>
@@ -8056,7 +8056,7 @@ Window Title</note></trans-unit>
 <target>开始时间（可选，0-1439 分钟内）</target>
 <note>Automation View</note></trans-unit>
       <trans-unit approved="yes" id="Starting with iOS 18 it's possible to hide all app and widget titles by choosing the new Large Icon mode." xml:space="preserve"><source>Starting with iOS 18 it's possible to hide all app and widget titles by choosing the new Large Icon mode.</source>
-<target>从 iOS 18 开始，可通过选择新的大图标模式来隐藏所有 App 和小组件标题。</target>
+<target>从 iOS 18 开始，可通过选择新的大图标模式来隐藏所有 App 和小组件的标题。</target>
 <note>Widgy Help Message</note></trans-unit>
       <trans-unit approved="yes" id="Starting with v3.2, the transparency layer is locked from editing, to avoid incorrect frame positions and unwanted effects. If you wish to fine-tune the transparency layer, go to the Documents drawer tab and unlock it from there." xml:space="preserve"><source>Starting with v3.2, the transparency layer is locked from editing, to avoid incorrect frame positions and unwanted effects. If you wish to fine-tune the transparency layer, go to the Documents drawer tab and unlock it from there.</source>
 <target>从 v3.2 开始，透明图层被锁定无法编辑，以避免错误的框架位置和意外效果。如果您希望微调透明图层，请前往「文档」抽屉选项卡然后从那里将其解锁。</target>
