@@ -1,4 +1,4 @@
-# Widgy（仅）简体中文翻译
+# Widgy 简体中文（仅）翻译
 
 ## 使用的 XLIFF 编辑器
   - [XLIFF Editor](https://www.l10nsoftware.com/xliff-editor/)
