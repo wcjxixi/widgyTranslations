@@ -2914,10 +2914,10 @@ Text Drawer</note></trans-unit>
 <target>承载令牌（可选）</target>
 <note>Custom JSON View</note></trans-unit>
       <trans-unit approved="yes" id="Beaufort (B)" xml:space="preserve"><source>Beaufort (B)</source>
-<target>蒲福氏（B）</target>
+<target>蒲福风级（B）</target>
 <note>Widget Settings View</note></trans-unit>
       <trans-unit approved="yes" id="Before proceeding, sign in once again to confirm your credentials." xml:space="preserve"><source>Before proceeding, sign in once again to confirm your credentials.</source>
-<target>在继续之前，请再次登录以确认您的凭据。</target>
+<target>继续之前，请再次登录以确认您的身份。</target>
 <note>Delete Explore Account</note></trans-unit>
       <trans-unit approved="yes" id="Before sharing, ensure this is not a recreation of a copyrighted watch face. These are forbidden from being published to Explore and will result in a ban." xml:space="preserve"><source>Before sharing, ensure this is not a recreation of a copyrighted watch face. These are forbidden from being published to Explore and will result in a ban.</source>
 <target>在分享之前，请确保这不是对受版权保护的表盘的复刻。这些内容禁止发布到「探索」页面，否则将导致您被封禁。</target>
@@ -7111,7 +7111,7 @@ Text Drawer</note></trans-unit>
 <target>阳性</target>
 <note>HealthKit Data</note></trans-unit>
       <trans-unit approved="yes" id="Precipitation" xml:space="preserve"><source>Precipitation</source>
-<target>降水量</target>
+<target>降水</target>
 <note>Data Sources</note></trans-unit>
       <trans-unit approved="yes" id="Prefix" xml:space="preserve"><source>Prefix</source>
 <target>前缀</target>
